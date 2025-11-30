@@ -67,3 +67,6 @@ tzdata==2025.2
 urllib3==2.5.0
 xxhash==3.6.0
 zstandard==0.25.0
+langchain-openai
+langchain-core
+
